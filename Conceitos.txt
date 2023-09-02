@@ -1,0 +1,32 @@
+Encadeada -> Conseguir usar a memoria sem ter espaços contíguo
+
+Vetor -> e uma lista simples, que ocupa um espaço contígua da memoria
+
+Encademaneto simples -> Ele vai de um por um
+
+Encadeamento duplo -> Ele vai de dois em dois
+
+Encadeamento Multiplo ->
+
+Lista Homogenea ->
+
+Lista Heterogenia ->
+
+
+
+Fila -> Primeiro entrar, primeira a sair.
+
+
+FPGA - Procurar sobre
+
+Janela de lançamento -> Onde e calculado todos os corpos, para que não sofram interferencia.
+
+Pilhas -> Eu retiro sempre o ultimo da pilha ou seja o topo da pilha ou fim da pilha
+
+
+BIGOU ->
+
+
+TEMAS -> MISSAO AULA QUE VEM, ACHAR GRAFICO DESEMPENHO big-O
+
+
